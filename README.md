@@ -1,4 +1,5 @@
-![](SpaceBackground.png)
+![](.res/SpaceBackground.png)
+
 My name is Jachym(he/him) and I am a senior computer science student at Yale-NUS College.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JachymPutta&layout=compact&custom_title=Currently%20struggling%20in%3A&theme=dark&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
