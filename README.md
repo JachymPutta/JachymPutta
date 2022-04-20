@@ -5,10 +5,6 @@
 ### Recently, I've written some projects in these languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JachymPutta&layout=compact&theme=radical&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-### Currently spending most of my time writing my thesis on program analysis.
-[![](https://github-readme-stats.vercel.app/api/pin/?username=JachymPutta&repo=WorklistCFA&theme=radical&show_owner=true)](https://github.com/JachymPutta/WorklistCFA)
-
-
 <!--
 Number of visitors:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JachymPutta.JachymPutta)
