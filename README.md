@@ -1,7 +1,5 @@
 ![](./res/SpaceBackground.png)
   
-### My name is Jachym(he/him) and I am a senior computer science student at Yale-NUS College. For more information check out my [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jachym-putta/).  
-
 ### Recently, I've written some projects in these languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JachymPutta&layout=compact&theme=radical&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
