@@ -1,5 +1,3 @@
-![](./res/SpaceBackground.png)
-  
 ### Recently, I've written some projects in these languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JachymPutta&layout=compact&theme=radical&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
