@@ -1,7 +1,7 @@
+<!--
 ### Recently, I've written some projects in these languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JachymPutta&layout=compact&theme=radical&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 Number of visitors:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JachymPutta.JachymPutta)
 
